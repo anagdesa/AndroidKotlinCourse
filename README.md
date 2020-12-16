@@ -2,6 +2,7 @@
 
 
 konfiguration for Network database
+refrensi from mr. pedy https://pastebin.com/2GgJbAPb
 
 New > kotlin > file
 judul file : NetworkTools.kt
