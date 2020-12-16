@@ -1,7 +1,7 @@
-# AndroidKotlinCourse
+# AndroidKotlinCourse to Networks
 
 
-#konfiguration for Network database
+konfiguration for Network database
 
 New > kotlin > file
 judul file : NetworkTools.kt
