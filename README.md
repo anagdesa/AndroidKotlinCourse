@@ -1,5 +1,8 @@
 # AndroidKotlinCourse to Networks
 
+Step 1 
+build.gredle https://github.com/anagdesa/AndroidKotlinCourse/blob/AndroidKotlinCourse/app/build.gradle
+
 
 konfiguration for Network database
 refrensi from mr. pedy https://pastebin.com/2GgJbAPb
